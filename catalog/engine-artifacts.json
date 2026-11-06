@@ -1,0 +1,110 @@
+{
+  "catalogVersion": 1,
+  "release": "engine-adapters-v1.0.0",
+  "repository": "https://github.com/paladinsghost10-sketch/102200e40d2b85525668a4363727dce7",
+  "sourceRepository": "https://github.com/zehnax-hq/zehnax-app",
+  "marketplaceInstallable": false,
+  "signatureStatus": "unsigned raw EVC binaries; not .zpack packages",
+  "assets": [
+    {
+      "engine": "audio",
+      "platform": "linux-x64",
+      "file": "zehnax-audio-linux-x64.so",
+      "url": "https://github.com/paladinsghost10-sketch/102200e40d2b85525668a4363727dce7/releases/download/engine-adapters-v1.0.0/zehnax-audio-linux-x64.so",
+      "sizeBytes": 5459128,
+      "sha256": "6bc6aa044d5c077f99a4eb26923df9789bae8aff5148abd23aae743d8348bd1a",
+      "format": "shared-library",
+      "marketplaceInstallable": false
+    },
+    {
+      "engine": "cas",
+      "platform": "linux-x64",
+      "file": "zehnax-cas-linux-x64.so",
+      "url": "https://github.com/paladinsghost10-sketch/102200e40d2b85525668a4363727dce7/releases/download/engine-adapters-v1.0.0/zehnax-cas-linux-x64.so",
+      "sizeBytes": 2101504,
+      "sha256": "ce22bd57197469847dd25a8ca5dff25740a8f059268cf391f80b45eee8ee7855",
+      "format": "shared-library",
+      "marketplaceInstallable": false
+    },
+    {
+      "engine": "cas",
+      "platform": "wasm",
+      "file": "zehnax-cas-wasm.wasm",
+      "url": "https://github.com/paladinsghost10-sketch/102200e40d2b85525668a4363727dce7/releases/download/engine-adapters-v1.0.0/zehnax-cas-wasm.wasm",
+      "sizeBytes": 1390904,
+      "sha256": "26a10199aab6936c02524679273eaa31005dafb0cf0513751115f849c13e3980",
+      "format": "wasm",
+      "marketplaceInstallable": false
+    },
+    {
+      "engine": "image",
+      "platform": "linux-x64",
+      "file": "zehnax-image-linux-x64.so",
+      "url": "https://github.com/paladinsghost10-sketch/102200e40d2b85525668a4363727dce7/releases/download/engine-adapters-v1.0.0/zehnax-image-linux-x64.so",
+      "sizeBytes": 2501464,
+      "sha256": "52b799fb373df3d6973130358f8d98f2df6c2f538ae63c4e384f9bf85ca2b381",
+      "format": "shared-library",
+      "marketplaceInstallable": false
+    },
+    {
+      "engine": "speech",
+      "platform": "linux-x64",
+      "file": "zehnax-speech-linux-x64.so",
+      "url": "https://github.com/paladinsghost10-sketch/102200e40d2b85525668a4363727dce7/releases/download/engine-adapters-v1.0.0/zehnax-speech-linux-x64.so",
+      "sizeBytes": 4649464,
+      "sha256": "b506fd0124ec634bc7f97f3548906f566c4843485587ce8f1b2401221d1e1de1",
+      "format": "shared-library",
+      "marketplaceInstallable": false
+    },
+    {
+      "engine": "stats",
+      "platform": "linux-x64",
+      "file": "zehnax-stats-linux-x64.so",
+      "url": "https://github.com/paladinsghost10-sketch/102200e40d2b85525668a4363727dce7/releases/download/engine-adapters-v1.0.0/zehnax-stats-linux-x64.so",
+      "sizeBytes": 524760,
+      "sha256": "2f2f68cfb89478de5d4c98c8c2028b56bdd43435e267e317e058337e07829eba",
+      "format": "shared-library",
+      "marketplaceInstallable": false
+    },
+    {
+      "engine": "stats",
+      "platform": "wasm",
+      "file": "zehnax-stats-wasm.wasm",
+      "url": "https://github.com/paladinsghost10-sketch/102200e40d2b85525668a4363727dce7/releases/download/engine-adapters-v1.0.0/zehnax-stats-wasm.wasm",
+      "sizeBytes": 159924,
+      "sha256": "c1205ef188d0e0b448caf45dbdb06d6491206a13021dc3c3f8d367cf44fc679b",
+      "format": "wasm",
+      "marketplaceInstallable": false
+    },
+    {
+      "engine": "table",
+      "platform": "linux-x64",
+      "file": "zehnax-table-linux-x64.so",
+      "url": "https://github.com/paladinsghost10-sketch/102200e40d2b85525668a4363727dce7/releases/download/engine-adapters-v1.0.0/zehnax-table-linux-x64.so",
+      "sizeBytes": 845616,
+      "sha256": "977352321d2df27902bf55907a91479ff2cac207c0e9cbc6de9c7599896d59c7",
+      "format": "shared-library",
+      "marketplaceInstallable": false
+    },
+    {
+      "engine": "table",
+      "platform": "wasm",
+      "file": "zehnax-table-wasm.wasm",
+      "url": "https://github.com/paladinsghost10-sketch/102200e40d2b85525668a4363727dce7/releases/download/engine-adapters-v1.0.0/zehnax-table-wasm.wasm",
+      "sizeBytes": 384597,
+      "sha256": "6556278a61d22614884d9879582a116ffee60c593320334776bf513ba68d5dd2",
+      "format": "wasm",
+      "marketplaceInstallable": false
+    },
+    {
+      "engine": "video",
+      "platform": "linux-x64",
+      "file": "zehnax-video-linux-x64.so",
+      "url": "https://github.com/paladinsghost10-sketch/102200e40d2b85525668a4363727dce7/releases/download/engine-adapters-v1.0.0/zehnax-video-linux-x64.so",
+      "sizeBytes": 6803576,
+      "sha256": "a986ab6fc8aad57b5b280b9d94c8c72f30fc9ecb6c09039d7e5bd76520abf78e",
+      "format": "shared-library",
+      "marketplaceInstallable": false
+    }
+  ]
+}
